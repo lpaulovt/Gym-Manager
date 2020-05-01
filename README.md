@@ -1,1 +1,1 @@
-<h1>Sitema de controle de academia em construção...</h1>
+<h1>Gym management system under development...</h1>
