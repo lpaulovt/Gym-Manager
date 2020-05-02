@@ -18,7 +18,7 @@ body {
 header {
     background: white;
     width: 100%;
-    padding: 12px;
+    padding: 32px;
     box-sizing: border-box;
 }
 
@@ -31,6 +31,11 @@ header {
 
 .logo {
     flex: 1;
+}
+
+.logo img {
+    height: 41px;
+    width: 255px;
 }
 
 .links {
