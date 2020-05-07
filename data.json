@@ -1,18 +1,12 @@
 {
     "instructors": [
         {
-            "avatar_url": "https://goole.com",
-            "name": "Paulo",
-            "birth": "1212-12-12",
-            "gender": "M",
-            "services": "gym"
-        },
-        {
             "avatar_url": "https://google.com",
-            "name": "Vitor",
-            "birth": "32323-02-23",
-            "gender": "M",
-            "services": "crossfit"
+            "name": "julia",
+            "birth": 953596800000,
+            "gender": "F",
+            "services": "gym",
+            "created_at": 1588888314435
         }
     ]
 }
