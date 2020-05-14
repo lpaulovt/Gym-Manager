@@ -17,6 +17,15 @@
             "gender": "M",
             "services": "Gym, Crossfit",
             "created_at": 1588956887065
+        },
+        {
+            "id": 3,
+            "name": "Vinicius",
+            "avatar_url": "https://google.com",
+            "birth": 1006819200000,
+            "gender": "M",
+            "services": "Gym, Crossfit",
+            "created_at": 1589419642025
         }
     ]
 }
