@@ -72,6 +72,9 @@ exports.edit = function(req, res){
 
     if (!foundInstructor) return res.send("Instructor not found!")
 
-    date(foundInstructor.birth)
+    const instructor = {
+        ...foundInstructor,
+        birth: date(foundInstructor.birth)
+    }
     return res.render('instructors/edit', {instructor: foundInstructor})
 }
